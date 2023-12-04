@@ -1,2 +1,8 @@
 # ignore specific file types
+<<<<<<< Updated upstream
 #*.csv
+=======
+#*.txt
+
+.gitignore.txt
+>>>>>>> Stashed changes
