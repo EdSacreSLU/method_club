@@ -1,2 +1,4 @@
 # ignore specific file types
-#*.csv
+*.csv
+
+
